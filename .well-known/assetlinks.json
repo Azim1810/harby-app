@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.azim1810.twa",
+        "sha256_cert_fingerprints": ["EF:F7:64:98:EC:2D:BD:EE:CC:92:2B:C1:BF:75:99:B3:FA:80:06:1C:2E:76:4B:86:5F:1A:77:A1:BF:83:2B:99"]
+      }
+    }]
