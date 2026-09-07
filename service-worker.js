@@ -1,4 +1,4 @@
-const CACHE_NAME = 'harby-ensiklopediya-v1';
+const CACHE_NAME = 'harby-ensiklopediya-v2';
 const FILES_TO_CACHE = [
   './index.html',
   './manifest.json',
